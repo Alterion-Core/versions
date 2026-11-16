@@ -68,6 +68,11 @@
     "cfx": 1185328,
     "versions": [
       {
+        "version": "1.0.2",
+        "date": "2026-11-16",
+        "changelog": []
+      },
+      {
         "version": "1.0.1",
         "date": "2026-11-16",
         "changelog": []
@@ -182,6 +187,11 @@
   "alterion_fort_riggs_overhaul": {
     "cfx": 1185332,
     "versions": [
+      {
+        "version": "1.0.2",
+        "date": "2026-11-16",
+        "changelog": []
+      },
       {
         "version": "1.0.1",
         "date": "2026-11-16",
