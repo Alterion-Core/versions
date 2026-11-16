@@ -1,4 +1,24 @@
 {
+  "alterion_animations": {
+    "cfx": 1185120,
+    "versions": [
+      {
+        "version": "1.0.2",
+        "date": "2026-11-16",
+        "changelog": []
+      }
+    ]
+  },
+  "alterion_banking": {
+    "cfx": 1185121,
+    "versions": [
+      {
+        "version": "1.0.2",
+        "date": "2026-11-16",
+        "changelog": []
+      }
+    ]
+  },
   "alterion_bath": {
     "cfx": 1164033,
     "versions": [
@@ -10,6 +30,16 @@
       {
         "version": "1.0.0",
         "date": "2026-10-30",
+        "changelog": []
+      }
+    ]
+  },
+  "alterion_billboard": {
+    "cfx": 1185122,
+    "versions": [
+      {
+        "version": "1.0.1",
+        "date": "2026-11-16",
         "changelog": []
       }
     ]
@@ -149,6 +179,36 @@
       }
     ]
   },
+  "alterion_maps_manager": {
+    "cfx": 1185123,
+    "versions": [
+      {
+        "version": "1.0.2",
+        "date": "2026-11-16",
+        "changelog": []
+      }
+    ]
+  },
+  "alterion_mdt": {
+    "cfx": 1185124,
+    "versions": [
+      {
+        "version": "1.0.2",
+        "date": "2026-11-16",
+        "changelog": []
+      }
+    ]
+  },
+  "alterion_medical_system": {
+    "cfx": 1185125,
+    "versions": [
+      {
+        "version": "1.0.2",
+        "date": "2026-11-16",
+        "changelog": []
+      }
+    ]
+  },
   "alterion_metabolism": {
     "cfx": 1164001,
     "versions": [
@@ -174,6 +234,16 @@
       }
     ]
   },
+  "alterion_native_paint": {
+    "cfx": 1185126,
+    "versions": [
+      {
+        "version": "1.0.1",
+        "date": "2026-11-16",
+        "changelog": []
+      }
+    ]
+  },
   "alterion_pausemenu": {
     "cfx": 1164039,
     "versions": [
@@ -189,12 +259,42 @@
       }
     ]
   },
+  "alterion_phone": {
+    "cfx": 1185127,
+    "versions": [
+      {
+        "version": "1.0.2",
+        "date": "2026-11-16",
+        "changelog": []
+      }
+    ]
+  },
   "alterion_player_underwear": {
     "cfx": 1164040,
     "versions": [
       {
         "version": "1.2.1",
         "date": "2026-10-30",
+        "changelog": []
+      }
+    ]
+  },
+  "alterion_secretdoors": {
+    "cfx": 1185128,
+    "versions": [
+      {
+        "version": "1.0.1",
+        "date": "2026-11-16",
+        "changelog": []
+      }
+    ]
+  },
+  "alterion_snowball": {
+    "cfx": 1185129,
+    "versions": [
+      {
+        "version": "1.0.1",
+        "date": "2026-11-16",
         "changelog": []
       }
     ]
@@ -219,12 +319,52 @@
       }
     ]
   },
+  "alterion_telegram": {
+    "cfx": 1185130,
+    "versions": [
+      {
+        "version": "1.0.2",
+        "date": "2026-11-16",
+        "changelog": []
+      }
+    ]
+  },
+  "alterion_theatre": {
+    "cfx": 1185131,
+    "versions": [
+      {
+        "version": "1.0.1",
+        "date": "2026-11-16",
+        "changelog": []
+      }
+    ]
+  },
+  "alterion_train": {
+    "cfx": 1185132,
+    "versions": [
+      {
+        "version": "1.0.2",
+        "date": "2026-11-16",
+        "changelog": []
+      }
+    ]
+  },
   "alterion_vanilla_milomanager": {
     "cfx": 1164043,
     "versions": [
       {
         "version": "1.0.0",
         "date": "2026-10-30",
+        "changelog": []
+      }
+    ]
+  },
+  "alterion_weapons": {
+    "cfx": 1185133,
+    "versions": [
+      {
+        "version": "1.0.1",
+        "date": "2026-11-16",
         "changelog": []
       }
     ]
