@@ -64,6 +64,16 @@
       }
     ]
   },
+  "alterion_bone_viewer": {
+    "cfx": 1186023,
+    "versions": [
+      {
+        "version": "1.0.1",
+        "date": "2026-11-17",
+        "changelog": []
+      }
+    ]
+  },
   "alterion_boxing_equipement": {
     "cfx": 1185328,
     "versions": [
@@ -99,6 +109,16 @@
       }
     ]
   },
+  "alterion_chamboule_tout": {
+    "cfx": 1186024,
+    "versions": [
+      {
+        "version": "1.0.0",
+        "date": "2026-11-17",
+        "changelog": []
+      }
+    ]
+  },
   "alterion_character": {
     "cfx": 1164035,
     "versions": [
@@ -115,6 +135,16 @@
       {
         "version": "1.0.0",
         "date": "2026-10-30",
+        "changelog": []
+      }
+    ]
+  },
+  "alterion_cinematic": {
+    "cfx": 1186025,
+    "versions": [
+      {
+        "version": "1.0.1",
+        "date": "2026-11-17",
         "changelog": []
       }
     ]
@@ -230,6 +260,16 @@
       {
         "version": "1.0.0",
         "date": "2026-07-21",
+        "changelog": []
+      }
+    ]
+  },
+  "alterion_jumpscare": {
+    "cfx": 1186026,
+    "versions": [
+      {
+        "version": "1.0.1",
+        "date": "2026-11-17",
         "changelog": []
       }
     ]
@@ -374,6 +414,16 @@
       }
     ]
   },
+  "alterion_notebook": {
+    "cfx": 1186027,
+    "versions": [
+      {
+        "version": "1.0.2",
+        "date": "2026-11-17",
+        "changelog": []
+      }
+    ]
+  },
   "alterion_ouijaboard_skeleton": {
     "cfx": 1185337,
     "versions": [
@@ -409,6 +459,16 @@
       }
     ]
   },
+  "alterion_pending": {
+    "cfx": 1186028,
+    "versions": [
+      {
+        "version": "1.0.2",
+        "date": "2026-11-17",
+        "changelog": []
+      }
+    ]
+  },
   "alterion_phone": {
     "cfx": 1185127,
     "versions": [
@@ -419,9 +479,24 @@
       }
     ]
   },
+  "alterion_photomode": {
+    "cfx": 1186029,
+    "versions": [
+      {
+        "version": "1.0.2",
+        "date": "2026-11-17",
+        "changelog": []
+      }
+    ]
+  },
   "alterion_player_underwear": {
     "cfx": 1164040,
     "versions": [
+      {
+        "version": "1.2.3",
+        "date": "2026-11-17",
+        "changelog": []
+      },
       {
         "version": "1.2.2",
         "date": "2026-11-16",
@@ -440,6 +515,16 @@
       {
         "version": "1.0.0",
         "date": "2026-11-16",
+        "changelog": []
+      }
+    ]
+  },
+  "alterion_postfx": {
+    "cfx": 1186030,
+    "versions": [
+      {
+        "version": "1.0.1",
+        "date": "2026-11-17",
         "changelog": []
       }
     ]
