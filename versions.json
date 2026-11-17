@@ -288,6 +288,11 @@
     "cfx": 1054941,
     "versions": [
       {
+        "version": "2.1.5",
+        "date": "2026-11-17",
+        "changelog": []
+      },
+      {
         "version": "2.1.4",
         "date": "2026-11-16",
         "changelog": []
