@@ -28,6 +28,11 @@
     "cfx": 1185121,
     "versions": [
       {
+        "version": "1.0.5",
+        "date": "2026-11-23",
+        "changelog": []
+      },
+      {
         "version": "1.0.4",
         "date": "2026-11-22",
         "changelog": []
@@ -62,6 +67,11 @@
   "alterion_billboard": {
     "cfx": 1185122,
     "versions": [
+      {
+        "version": "1.0.4",
+        "date": "2026-11-23",
+        "changelog": []
+      },
       {
         "version": "1.0.3",
         "date": "2026-11-22",
@@ -143,6 +153,11 @@
     "cfx": 1164035,
     "versions": [
       {
+        "version": "1.0.4",
+        "date": "2026-11-23",
+        "changelog": []
+      },
+      {
         "version": "1.0.3",
         "date": "2026-11-22",
         "changelog": []
@@ -160,6 +175,16 @@
       {
         "version": "1.0.0",
         "date": "2026-10-30",
+        "changelog": []
+      }
+    ]
+  },
+  "alterion_chess": {
+    "cfx": 1191584,
+    "versions": [
+      {
+        "version": "1.0.7",
+        "date": "2026-11-23",
         "changelog": []
       }
     ]
@@ -219,6 +244,16 @@
       }
     ]
   },
+  "alterion_firework": {
+    "cfx": 1191585,
+    "versions": [
+      {
+        "version": "1.0.4",
+        "date": "2026-11-23",
+        "changelog": []
+      }
+    ]
+  },
   "alterion_fishing": {
     "cfx": 1164037,
     "versions": [
@@ -237,6 +272,11 @@
   "alterion_flags": {
     "cfx": 1164019,
     "versions": [
+      {
+        "version": "1.1.4",
+        "date": "2026-11-23",
+        "changelog": []
+      },
       {
         "version": "1.1.3",
         "date": "2026-11-22",
@@ -299,9 +339,24 @@
       }
     ]
   },
+  "alterion_human_cannonball": {
+    "cfx": 1191586,
+    "versions": [
+      {
+        "version": "1.0.1",
+        "date": "2026-11-23",
+        "changelog": []
+      }
+    ]
+  },
   "alterion_inventory": {
     "cfx": 1190189,
     "versions": [
+      {
+        "version": "1.0.3",
+        "date": "2026-11-23",
+        "changelog": []
+      },
       {
         "version": "1.0.2",
         "date": "2026-11-22",
@@ -347,6 +402,11 @@
   "alterion_libs": {
     "cfx": 1054941,
     "versions": [
+      {
+        "version": "2.1.7",
+        "date": "2026-11-23",
+        "changelog": []
+      },
       {
         "version": "2.1.6",
         "date": "2026-11-22",
@@ -464,6 +524,16 @@
       }
     ]
   },
+  "alterion_metaldetector": {
+    "cfx": 1191587,
+    "versions": [
+      {
+        "version": "1.0.2",
+        "date": "2026-11-23",
+        "changelog": []
+      }
+    ]
+  },
   "alterion_native_paint": {
     "cfx": 1185126,
     "versions": [
@@ -553,6 +623,11 @@
     "cfx": 1186028,
     "versions": [
       {
+        "version": "1.0.4",
+        "date": "2026-11-23",
+        "changelog": []
+      },
+      {
         "version": "1.0.3",
         "date": "2026-11-22",
         "changelog": []
@@ -575,6 +650,16 @@
       {
         "version": "1.0.2",
         "date": "2026-11-16",
+        "changelog": []
+      }
+    ]
+  },
+  "alterion_phonograph": {
+    "cfx": 1191588,
+    "versions": [
+      {
+        "version": "1.0.6",
+        "date": "2026-11-23",
         "changelog": []
       }
     ]
@@ -634,6 +719,16 @@
       }
     ]
   },
+  "alterion_rcboat": {
+    "cfx": 1191589,
+    "versions": [
+      {
+        "version": "1.0.1",
+        "date": "2026-11-23",
+        "changelog": []
+      }
+    ]
+  },
   "alterion_riverrun_camp": {
     "cfx": 1185340,
     "versions": [
@@ -650,6 +745,26 @@
       {
         "version": "1.0.1",
         "date": "2026-11-16",
+        "changelog": []
+      }
+    ]
+  },
+  "alterion_sledges": {
+    "cfx": 1191590,
+    "versions": [
+      {
+        "version": "1.0.4",
+        "date": "2026-11-23",
+        "changelog": []
+      }
+    ]
+  },
+  "alterion_slotmachine": {
+    "cfx": 1191591,
+    "versions": [
+      {
+        "version": "1.0.3",
+        "date": "2026-11-23",
         "changelog": []
       }
     ]
@@ -677,6 +792,11 @@
   "alterion_society": {
     "cfx": 1164042,
     "versions": [
+      {
+        "version": "1.0.4",
+        "date": "2026-11-23",
+        "changelog": []
+      },
       {
         "version": "1.0.3",
         "date": "2026-11-22",
@@ -742,6 +862,11 @@
   "alterion_train": {
     "cfx": 1185132,
     "versions": [
+      {
+        "version": "1.0.5",
+        "date": "2026-11-23",
+        "changelog": []
+      },
       {
         "version": "1.0.4",
         "date": "2026-11-22",
