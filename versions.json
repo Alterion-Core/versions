@@ -3,6 +3,11 @@
     "cfx": 1185120,
     "versions": [
       {
+        "version": "1.0.4",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.3",
         "date": "2026-11-22",
         "changelog": []
@@ -18,6 +23,11 @@
     "cfx": 1185327,
     "versions": [
       {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.1",
         "date": "2026-11-16",
         "changelog": []
@@ -27,6 +37,11 @@
   "alterion_banking": {
     "cfx": 1185121,
     "versions": [
+      {
+        "version": "1.0.6",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.5",
         "date": "2026-11-23",
@@ -53,6 +68,11 @@
     "cfx": 1164033,
     "versions": [
       {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.1",
         "date": "2026-11-14",
         "changelog": []
@@ -67,6 +87,11 @@
   "alterion_billboard": {
     "cfx": 1185122,
     "versions": [
+      {
+        "version": "1.0.5",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.4",
         "date": "2026-11-23",
@@ -93,6 +118,11 @@
     "cfx": 1186023,
     "versions": [
       {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.1",
         "date": "2026-11-17",
         "changelog": []
@@ -102,6 +132,11 @@
   "alterion_boxing_equipement": {
     "cfx": 1185328,
     "versions": [
+      {
+        "version": "1.0.3",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.2",
         "date": "2026-11-16",
@@ -118,6 +153,11 @@
     "cfx": 1185329,
     "versions": [
       {
+        "version": "1.0.3",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.2",
         "date": "2026-11-22",
         "changelog": []
@@ -133,6 +173,11 @@
     "cfx": 1164034,
     "versions": [
       {
+        "version": "1.0.1",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.0",
         "date": "2026-10-30",
         "changelog": []
@@ -143,6 +188,11 @@
     "cfx": 1186024,
     "versions": [
       {
+        "version": "1.0.1",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.0",
         "date": "2026-11-17",
         "changelog": []
@@ -152,6 +202,11 @@
   "alterion_character": {
     "cfx": 1164035,
     "versions": [
+      {
+        "version": "1.0.5",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.4",
         "date": "2026-11-23",
@@ -183,6 +238,11 @@
     "cfx": 1191584,
     "versions": [
       {
+        "version": "1.0.8",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.7",
         "date": "2026-11-23",
         "changelog": []
@@ -193,6 +253,11 @@
     "cfx": 1186025,
     "versions": [
       {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.1",
         "date": "2026-11-17",
         "changelog": []
@@ -202,6 +267,11 @@
   "alterion_crystalball": {
     "cfx": 1185330,
     "versions": [
+      {
+        "version": "1.2.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.2.1",
         "date": "2026-11-22",
@@ -218,6 +288,11 @@
     "cfx": 1185331,
     "versions": [
       {
+        "version": "1.1.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.1.1",
         "date": "2026-11-22",
         "changelog": []
@@ -232,6 +307,11 @@
   "alterion_donjulio": {
     "cfx": 1164036,
     "versions": [
+      {
+        "version": "1.0.3",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.2",
         "date": "2026-10-30",
@@ -248,6 +328,11 @@
     "cfx": 1191585,
     "versions": [
       {
+        "version": "1.0.5",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.4",
         "date": "2026-11-23",
         "changelog": []
@@ -257,6 +342,11 @@
   "alterion_fishing": {
     "cfx": 1164037,
     "versions": [
+      {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.1",
         "date": "2026-11-14",
@@ -272,6 +362,11 @@
   "alterion_flags": {
     "cfx": 1164019,
     "versions": [
+      {
+        "version": "1.1.5",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.1.4",
         "date": "2026-11-23",
@@ -297,6 +392,11 @@
   "alterion_fort_riggs_overhaul": {
     "cfx": 1185332,
     "versions": [
+      {
+        "version": "1.0.3",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.2",
         "date": "2026-11-16",
@@ -343,6 +443,11 @@
     "cfx": 1191586,
     "versions": [
       {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.1",
         "date": "2026-11-23",
         "changelog": []
@@ -352,6 +457,11 @@
   "alterion_inventory": {
     "cfx": 1190189,
     "versions": [
+      {
+        "version": "1.0.4",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.3",
         "date": "2026-11-23",
@@ -368,6 +478,11 @@
     "cfx": 1054998,
     "versions": [
       {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.1",
         "date": "2026-11-14",
         "changelog": []
@@ -383,6 +498,11 @@
     "cfx": 1186026,
     "versions": [
       {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.1",
         "date": "2026-11-17",
         "changelog": []
@@ -393,6 +513,11 @@
     "cfx": 1164038,
     "versions": [
       {
+        "version": "1.0.1",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.0",
         "date": "2026-10-30",
         "changelog": []
@@ -402,6 +527,11 @@
   "alterion_libs": {
     "cfx": 1054941,
     "versions": [
+      {
+        "version": "2.1.8",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "2.1.7",
         "date": "2026-11-23",
@@ -443,6 +573,11 @@
     "cfx": 1055000,
     "versions": [
       {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.1",
         "date": "2026-11-14",
         "changelog": []
@@ -457,6 +592,11 @@
   "alterion_maps_manager": {
     "cfx": 1185123,
     "versions": [
+      {
+        "version": "1.0.4",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.3",
         "date": "2026-11-22",
@@ -473,6 +613,11 @@
     "cfx": 1185124,
     "versions": [
       {
+        "version": "1.0.3",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.2",
         "date": "2026-11-16",
         "changelog": []
@@ -482,6 +627,11 @@
   "alterion_medical_system": {
     "cfx": 1185125,
     "versions": [
+      {
+        "version": "1.0.4",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.3",
         "date": "2026-11-22",
@@ -497,6 +647,11 @@
   "alterion_metabolism": {
     "cfx": 1164001,
     "versions": [
+      {
+        "version": "1.0.5",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.4",
         "date": "2026-11-22",
@@ -528,8 +683,33 @@
     "cfx": 1191587,
     "versions": [
       {
+        "version": "1.0.3",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.2",
         "date": "2026-11-23",
+        "changelog": []
+      }
+    ]
+  },
+  "alterion_native_headband": {
+    "cfx": 1193521,
+    "versions": [
+      {
+        "version": "1.1.3",
+        "date": "2026-11-25",
+        "changelog": []
+      }
+    ]
+  },
+  "alterion_native_headdress": {
+    "cfx": 1193522,
+    "versions": [
+      {
+        "version": "1.3.3",
+        "date": "2026-11-25",
         "changelog": []
       }
     ]
@@ -537,6 +717,11 @@
   "alterion_native_paint": {
     "cfx": 1185126,
     "versions": [
+      {
+        "version": "1.0.3",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.2",
         "date": "2026-11-16",
@@ -553,6 +738,11 @@
     "cfx": 1185335,
     "versions": [
       {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.1",
         "date": "2026-11-16",
         "changelog": []
@@ -562,6 +752,11 @@
   "alterion_native_totems": {
     "cfx": 1185336,
     "versions": [
+      {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.1",
         "date": "2026-11-16",
@@ -583,6 +778,11 @@
     "cfx": 1185337,
     "versions": [
       {
+        "version": "1.0.1",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.0",
         "date": "2026-11-16",
         "changelog": []
@@ -593,6 +793,11 @@
     "cfx": 1185338,
     "versions": [
       {
+        "version": "1.0.1",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.0",
         "date": "2026-11-16",
         "changelog": []
@@ -602,6 +807,11 @@
   "alterion_pausemenu": {
     "cfx": 1164039,
     "versions": [
+      {
+        "version": "1.0.3",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.2",
         "date": "2026-11-22",
@@ -623,6 +833,11 @@
     "cfx": 1186028,
     "versions": [
       {
+        "version": "1.0.5",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.4",
         "date": "2026-11-23",
         "changelog": []
@@ -643,6 +858,11 @@
     "cfx": 1185127,
     "versions": [
       {
+        "version": "1.0.4",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.3",
         "date": "2026-11-22",
         "changelog": []
@@ -658,6 +878,11 @@
     "cfx": 1191588,
     "versions": [
       {
+        "version": "1.0.7",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.6",
         "date": "2026-11-23",
         "changelog": []
@@ -667,6 +892,11 @@
   "alterion_photomode": {
     "cfx": 1186029,
     "versions": [
+      {
+        "version": "1.0.4",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.3",
         "date": "2026-11-22",
@@ -682,6 +912,11 @@
   "alterion_player_underwear": {
     "cfx": 1164040,
     "versions": [
+      {
+        "version": "1.2.4",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.2.3",
         "date": "2026-11-17",
@@ -703,6 +938,11 @@
     "cfx": 1185339,
     "versions": [
       {
+        "version": "1.0.1",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.0",
         "date": "2026-11-16",
         "changelog": []
@@ -712,6 +952,11 @@
   "alterion_postfx": {
     "cfx": 1186030,
     "versions": [
+      {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.1",
         "date": "2026-11-17",
@@ -723,6 +968,11 @@
     "cfx": 1191589,
     "versions": [
       {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.1",
         "date": "2026-11-23",
         "changelog": []
@@ -732,6 +982,11 @@
   "alterion_riverrun_camp": {
     "cfx": 1185340,
     "versions": [
+      {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.1",
         "date": "2026-11-16",
@@ -743,6 +998,11 @@
     "cfx": 1185128,
     "versions": [
       {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.1",
         "date": "2026-11-16",
         "changelog": []
@@ -753,6 +1013,11 @@
     "cfx": 1191590,
     "versions": [
       {
+        "version": "1.0.5",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.4",
         "date": "2026-11-23",
         "changelog": []
@@ -762,6 +1027,11 @@
   "alterion_slotmachine": {
     "cfx": 1191591,
     "versions": [
+      {
+        "version": "1.0.4",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.3",
         "date": "2026-11-23",
@@ -783,6 +1053,11 @@
     "cfx": 1185129,
     "versions": [
       {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.1",
         "date": "2026-11-16",
         "changelog": []
@@ -792,6 +1067,11 @@
   "alterion_society": {
     "cfx": 1164042,
     "versions": [
+      {
+        "version": "1.0.5",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.4",
         "date": "2026-11-23",
@@ -833,6 +1113,11 @@
     "cfx": 1185130,
     "versions": [
       {
+        "version": "1.0.5",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.4",
         "date": "2026-11-22",
         "changelog": []
@@ -853,6 +1138,11 @@
     "cfx": 1185131,
     "versions": [
       {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.1",
         "date": "2026-11-16",
         "changelog": []
@@ -862,6 +1152,11 @@
   "alterion_train": {
     "cfx": 1185132,
     "versions": [
+      {
+        "version": "1.0.6",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.5",
         "date": "2026-11-23",
@@ -888,6 +1183,11 @@
     "cfx": 1185343,
     "versions": [
       {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.1",
         "date": "2026-11-16",
         "changelog": []
@@ -897,6 +1197,11 @@
   "alterion_vanilla_milomanager": {
     "cfx": 1164043,
     "versions": [
+      {
+        "version": "1.0.1",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.0",
         "date": "2026-10-30",
@@ -908,6 +1213,11 @@
     "cfx": 1185346,
     "versions": [
       {
+        "version": "1.0.2",
+        "date": "2026-11-25",
+        "changelog": []
+      },
+      {
         "version": "1.0.1",
         "date": "2026-11-16",
         "changelog": []
@@ -917,6 +1227,11 @@
   "alterion_weapons": {
     "cfx": 1185133,
     "versions": [
+      {
+        "version": "1.0.3",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.2",
         "date": "2026-11-22",
@@ -932,6 +1247,11 @@
   "alterion_window_rock": {
     "cfx": 1164044,
     "versions": [
+      {
+        "version": "1.0.1",
+        "date": "2026-11-25",
+        "changelog": []
+      },
       {
         "version": "1.0.0",
         "date": "2026-10-30",
