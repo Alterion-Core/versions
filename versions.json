@@ -528,6 +528,11 @@
     "cfx": 1054941,
     "versions": [
       {
+        "version": "2.1.9",
+        "date": "2026-11-26",
+        "changelog": []
+      },
+      {
         "version": "2.1.8",
         "date": "2026-11-25",
         "changelog": []
@@ -573,6 +578,11 @@
     "cfx": 1055000,
     "versions": [
       {
+        "version": "1.0.3",
+        "date": "2026-11-26",
+        "changelog": []
+      },
+      {
         "version": "1.0.2",
         "date": "2026-11-25",
         "changelog": []
@@ -612,6 +622,11 @@
   "alterion_mdt": {
     "cfx": 1185124,
     "versions": [
+      {
+        "version": "1.0.4",
+        "date": "2026-11-26",
+        "changelog": []
+      },
       {
         "version": "1.0.3",
         "date": "2026-11-25",
